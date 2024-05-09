@@ -64,14 +64,12 @@
 
 </div>
 
-### **Plant with Time Delay: Step Response from SIMULINK**
+### **7. Plant with Time Delay: Step Response from SIMULINK**
 <div align="center">
 
 ![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/a39544e1-12d0-4229-8510-51bad2642471)
 
 </div>
-
-
 
 ## 8. Nonlinear System Approximation G(s) = (10s^4 + 8s^3 + 6s^2 + 4s + 2) / (s^5 +3s^4 + 5s^3 + 7s^2 + 9s + 1)
 
