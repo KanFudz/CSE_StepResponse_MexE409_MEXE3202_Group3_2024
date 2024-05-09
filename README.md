@@ -61,22 +61,22 @@
 
 <div align="center">
   
-...
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/f4ab343f-545c-4213-9cd9-8bf1f7410db0)
 
 </div>
 
 ### **3. Second Order Underdamped System: Step response**
 <div align="center">
   
-...
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/44dcb1af-390b-4742-b12f-e6e8c6c1c8aa)
 
 </div>
 
 ### **3. Second Order Critically Damped System: Step response from SIMULINK**
 <div align="center">
   
-...
-  
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/3f7b1b7e-93ed-4de3-a223-3b4935076810)
+
 </div>
 
 <br>
@@ -89,28 +89,26 @@
 
 <div align="center">
   
-...
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/c6811895-e515-4994-a824-6cb405407b7a)
 
 </div>
 
 ### **4. First Order System: Step response**
 <div align="center">
   
-...
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/ad41f12b-9a45-4676-bf07-d3a36898012b)
 
 </div>
 
 ### **4. First Order System: Step response from SIMULINK**
 <div align="center">
   
-...
-  
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/43c91f50-3c2a-40d3-bd30-dbcf0636562f)
+ 
 </div>
 
 <br>
 <br>
-
-
 
 ## 5. Resonant System: G(s) = $$\frac{8s^6 + 7s^5 + 6s^4 + 5s^3 + 4s^2 + 3s + 2}{s^7 + 2s^6 + 3s^5 + 4s^4 + 5s^3 + 6s^2 + 7s + 1}$$
 
