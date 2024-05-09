@@ -53,7 +53,7 @@
 ### **7. Plant with Time Delay: Block Diagram**
 <div align="center">
   
-[Malata_Problem7.pdf](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/files/15258498/Malata_Problem7.pdf)
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/c3cf23c3-5d99-4bf8-b890-d5e5de2f10e4)
 
 </div>
 
