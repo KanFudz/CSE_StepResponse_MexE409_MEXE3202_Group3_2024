@@ -26,7 +26,7 @@
 
 </div>
 
-## 6.Electrical Filter with Multiple Poles G(s) = 4s^3 + 3s^2 + 2s + 1 / s^4 + 2s^3 + 3s^2 + 4s + 1
+## 6.Electrical Filter with Multiple Poles G(s) = $$\frac{4s^3 + 3s^2 + 2s + 1}{s^4 + 2s^3 + 3s^2 + 4s + 1}$$
 
 ### **6. Electrical Filter with Multiple Poles: Block Diagram**
 <div align="center">
