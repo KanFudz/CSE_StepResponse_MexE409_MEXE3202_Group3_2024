@@ -8,7 +8,11 @@
 </div>
 
 ### **Number 5 Step response:**
+<div align="center">
+  
 ![#5 MATLAB](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/036efedf-d3d6-4a9d-860c-927308125fb0)
+
+</div>
 
 ### **Number 5 Step response from SIMULINK:**
 ![#5 simulink](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/c9762dfa-c1ee-4c4e-84de-307606850c67)
