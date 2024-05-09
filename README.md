@@ -6,7 +6,7 @@
 
 <div align="center">
   
-...
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/f1a438c3-f914-4d59-ba2e-91975f2b3226)
 
 </div>
 
