@@ -1,7 +1,9 @@
 # CSE_StepResponse_MexE409_MEXE3202_Group3_2024
 
 ## Resonant System: G(s) = 8s^6 + 7s^5 + 6s^4 + 5s^3 + 4s^2 + 3s + 2 / s^7 + 2s^6 + 3s^5 + 4s^4 + 5s^3 + 6s^2 + 7s + 1 
-### **Number 5 Block Diagram**
+### 
+
+**5.Resonant System Block Diagram**
 
 <div align="center">
   
