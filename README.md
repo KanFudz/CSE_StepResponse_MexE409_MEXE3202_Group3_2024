@@ -42,4 +42,21 @@
 
 </div>
 
-![step response 7](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/4b6d1a15-7803-4dcd-9a31-eb250cbdfaec)
+## 7. Plant with Time Delay G(s) = (6s^4 + 5s^3 + 4s^2 + 3s + 2) / (s^5 +2s^4 + 3s^3 + 4s^2 + 5s + 1)
+<br>
+
+Block Diagram:
+[Malata_Problem7.pdf](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/files/15258475/Malata_Problem7.pdf)
+
+<br>
+Step Response from MATLAB: 
+<br>
+![Problem7](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/dfb392bb-667e-4969-b534-4524ffea8bb1)
+
+## 8.Nonlinear System Approximation G(s) = (10s^4 + 8s^3 + 6s^2 + 4s + 2) / (s^5 +3s^4 + 5s^3 + 7s^2 + 9s + 1)
+Block Diagram:
+
+Step Response from MATLAB: 
+![Problem8](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/b4252278-1e6e-47d3-a156-649837d93e6f)
+
+
