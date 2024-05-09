@@ -93,7 +93,7 @@
 ### **8. Nonlinear System Approximation: Step Response**
 <div align="center">
 
-![Problem8](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/ee5c35fe-5271-40a7-8fd7-c32ad886dd5f)
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/9af94f4a-dd86-4544-853d-92573f5dbc00)
 
 </div>
 
