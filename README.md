@@ -3,7 +3,7 @@
 ## Resonant System: G(s) = 8s^6 + 7s^5 + 6s^4 + 5s^3 + 4s^2 + 3s + 2 / s^7 + 2s^6 + 3s^5 + 4s^4 + 5s^3 + 6s^2 + 7s + 1 
 ### 
 
-**5.Resonant System Block Diagram**
+**5. Resonant System Block Diagram**
 
 <div align="center">
   
@@ -11,7 +11,7 @@
 
 </div>
 
-### **Number 5 Step response:**
+### **5. Resonant System Step response:**
 <div align="center">
   
 ![#5 MATLAB](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/036efedf-d3d6-4a9d-860c-927308125fb0)
