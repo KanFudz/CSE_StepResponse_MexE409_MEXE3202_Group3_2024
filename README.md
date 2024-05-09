@@ -46,17 +46,18 @@
 <br>
 
 Block Diagram:
-[Malata_Problem7.pdf](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/files/15258475/Malata_Problem7.pdf)
+[Malata_Problem7.pdf](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/files/15258498/Malata_Problem7.pdf)
 
 <br>
 Step Response from MATLAB: 
-<br>
-![Problem7](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/dfb392bb-667e-4969-b534-4524ffea8bb1)
+![Problem7](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/ff428d46-cf69-400a-9346-7a8593009446)
+
 
 ## 8.Nonlinear System Approximation G(s) = (10s^4 + 8s^3 + 6s^2 + 4s + 2) / (s^5 +3s^4 + 5s^3 + 7s^2 + 9s + 1)
 Block Diagram:
 
 Step Response from MATLAB: 
-![Problem8](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/b4252278-1e6e-47d3-a156-649837d93e6f)
+![Problem8](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/ee5c35fe-5271-40a7-8fd7-c32ad886dd5f)
+
 
 
