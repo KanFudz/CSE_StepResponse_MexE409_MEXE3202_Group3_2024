@@ -78,7 +78,7 @@
 ### **8. Nonlinear System Approximation: Block Diagram**
 <div align="center">
   
-...
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/e521aae9-2ac4-4e13-9ce3-cbba85701c21)
 
 </div>
 
@@ -92,7 +92,7 @@
 ### **8. Nonlinear System Approximation: Step Response from SIMULINK
 <div align="center">
 
-...
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/a3010a27-b3b2-430c-b28e-3362b0e7fa04)
 
 </div>
 
