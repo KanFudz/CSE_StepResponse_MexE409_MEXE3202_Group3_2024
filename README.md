@@ -27,7 +27,7 @@
 
 ## 6.Electrical Filter with Multiple Poles G(s) = 4s^3 + 3s^2 + 2s + 1 / s^4 + 2s^3 + 3s^2 + 4s + 1
 
-### **Number 6 Block Diagram**
+### **6. Electrical Filter with Multiple Poles:Block Diagram**
 <div align="center">
   
 ![#6 BLOCK](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/737a8e28-ec6a-455c-825e-712a10b62b95)
