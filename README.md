@@ -49,7 +49,7 @@
 
 </div>
 
-## 7. Plant with Time Delay G(s) = (6s^4 + 5s^3 + 4s^2 + 3s + 2) / (s^5 +2s^4 + 3s^3 + 4s^2 + 5s + 1)
+## 7. Plant with Time Delay G(s) = $$\frac{6s^4 + 5s^3 + 4s^2 + 3s + 2}{s^5 + 2s^4 + 3s^3 + 4s^2 + 5s + 1}$$
 
 ### **7. Plant with Time Delay: Block Diagram**
 <div align="center">
@@ -72,7 +72,7 @@
 
 </div>
 
-## 8. Nonlinear System Approximation G(s) = (10s^4 + 8s^3 + 6s^2 + 4s + 2) / (s^5 +3s^4 + 5s^3 + 7s^2 + 9s + 1)
+## 8. Nonlinear System Approximation G(s) = $$\frac{10s^4 + 8s^3 + 6s^2 + 4s + 2}{s^5 + 3s^4 + 5s^3 + 7s^2 + 9s + 1}$$
 
 ### **8. Nonlinear System Approximation: Block Diagram**
 <div align="center">
