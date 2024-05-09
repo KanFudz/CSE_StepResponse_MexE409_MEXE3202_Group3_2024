@@ -8,21 +8,21 @@
 
 <div align="center">
   
-![#5 BLOCK](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/6be4c2b6-9893-4948-b911-5bcfbb1b96be)
+![p5block](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/ae81c44f-0a1a-427c-b392-f4c6f7d0f466)
 
 </div>
 
 ### **5. Resonant System: Step response**
 <div align="center">
   
-![#5 MATLAB](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/036efedf-d3d6-4a9d-860c-927308125fb0)
+![p5step](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/350ace16-303d-4029-a98c-ca6cfd63b8e4)
 
 </div>
 
 ### **5. Resonant System: Step response from SIMULINK**
 <div align="center">
   
-![#5 simulink](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/c9762dfa-c1ee-4c4e-84de-307606850c67)
+![p5 simu](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/40b03654-79df-4c93-b33e-cafe4c9c2375)
 
 </div>
 
