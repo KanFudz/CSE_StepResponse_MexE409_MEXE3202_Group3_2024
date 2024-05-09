@@ -67,7 +67,7 @@
 ### **7. Plant with Time Delay: Step Response**
 <div align="center">
 
-![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/1cc92d4f-2510-4eda-99e2-e76b5389c064)
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/3825be71-82f4-477c-a4bb-81fe90cbfb38)
 
 </div>
 
