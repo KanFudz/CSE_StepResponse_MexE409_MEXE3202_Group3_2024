@@ -1,6 +1,6 @@
 # CSE_StepResponse_MexE409_MEXE3202_Group3_2024
 
-## Second Order Underdamped System: G(s) = \frac{1}{s^2 + 2s + 1}
+## Second Order Underdamped System: G(s) = $$\frac{1}{s^2 + 2s + 1}$$
 
 ### **1. Second Order Underdamped System: Block Diagram**
 
