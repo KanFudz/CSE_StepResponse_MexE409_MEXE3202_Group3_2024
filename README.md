@@ -22,7 +22,11 @@
 </div>
 
 ### **Number 6 Block Diagram**
+<div align="center">
+  
 ![#6 BLOCK](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/737a8e28-ec6a-455c-825e-712a10b62b95)
+
+</div>
 
 ### **Number 6 Step response:**
 ![#6 MATLAB](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/b1fe6a48-3cfa-4654-ac43-d1cf4f8f07d1)
