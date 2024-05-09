@@ -26,6 +26,9 @@
 
 </div>
 
+<br>
+<br>
+
 ## 6.Electrical Filter with Multiple Poles G(s) = $$\frac{4s^3 + 3s^2 + 2s + 1}{s^4 + 2s^3 + 3s^2 + 4s + 1}$$
 
 ### **6. Electrical Filter with Multiple Poles: Block Diagram**
@@ -49,6 +52,9 @@
 
 </div>
 
+<br>
+<br>
+
 ## 7. Plant with Time Delay G(s) = $$\frac{6s^4 + 5s^3 + 4s^2 + 3s + 2}{s^5 + 2s^4 + 3s^3 + 4s^2 + 5s + 1}$$
 
 ### **7. Plant with Time Delay: Block Diagram**
@@ -71,6 +77,9 @@
 ![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/a39544e1-12d0-4229-8510-51bad2642471)
 
 </div>
+
+<br>
+<br>
 
 ## 8. Nonlinear System Approximation G(s) = $$\frac{10s^4 + 8s^3 + 6s^2 + 4s + 2}{s^5 + 3s^4 + 5s^3 + 7s^2 + 9s + 1}$$
 
