@@ -18,7 +18,7 @@
 
 </div>
 
-### **Number 5 Step response from SIMULINK:**
+### **5. Resonant System Step response from SIMULINK:**
 <div align="center">
   
 ![#5 simulink](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/c9762dfa-c1ee-4c4e-84de-307606850c67)
