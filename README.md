@@ -13,7 +13,7 @@
 ### **1. Second Order Underdamped System: Step response**
 <div align="center">
   
-...
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/2161e51a-1669-433a-8ece-edc2aa646124)
 
 </div>
 
