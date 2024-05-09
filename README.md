@@ -6,6 +6,7 @@
 ![#5 BLOCK](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/6be4c2b6-9893-4948-b911-5bcfbb1b96be)
 
 </div>
+
 ## Resonant System: G(s) = 8s^6 + 7s^5 + 6s^4 + 5s^3 + 4s^2 + 3s + 2 / s^7 + 2s^6 + 3s^5 + 4s^4 + 5s^3 + 6s^2 + 7s + 1 
 
 ### **Number 5 Step response:**
@@ -21,6 +22,8 @@
 ![#5 simulink](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/c9762dfa-c1ee-4c4e-84de-307606850c67)
 
 </div>
+
+## 6.Electrical Filter with Multiple Poles G(s) = 4s^3 + 3s^2 + 2s + 1 / s^4 + 2s^3 + 3s^2 + 4s + 1
 
 ### **Number 6 Block Diagram**
 <div align="center">
