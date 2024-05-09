@@ -27,7 +27,32 @@
 <br>
 <br>
 
+## 2. Second Order Overdamped System: G(s) = $$\frac{1}{{(s+2)(s+3)}}$$
 
+### **2. Second Order Overdamped System: Block Diagram**
+
+<div align="center">
+  
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/4227be8c-5830-481f-94c9-2dda0bc28890)
+
+</div>
+
+### **2. Second Order Overdamped System: Step response**
+<div align="center">
+  
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/b529b12d-4373-4dc0-936f-9de58c208fee)
+
+</div>
+
+### **2. Second Order Overdamped System: Step response from SIMULINK**
+<div align="center">
+  
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/a7cf275b-fa02-4d0e-9e2a-36ce1504dde4)
+  
+</div>
+
+<br>
+<br>
 
 
 
