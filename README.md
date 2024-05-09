@@ -20,7 +20,7 @@
 ### **1. Second Order Underdamped System: Step response from SIMULINK**
 <div align="center">
   
-...
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/e9b6af75-cbd5-49ad-9f74-0453fe62e293)
   
 </div>
 
