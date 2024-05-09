@@ -15,5 +15,8 @@ Number 6 Block Diagram
 Number 6 Step response:
 ![#6 MATLAB](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/b1fe6a48-3cfa-4654-ac43-d1cf4f8f07d1)
 
+Number 6 Step response from SIMULINK:
+![#6 SIMULINK](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/4750f88d-9488-451d-a526-f8bd13a8fc74)
+
 
 ![step response 7](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/4b6d1a15-7803-4dcd-9a31-eb250cbdfaec)
