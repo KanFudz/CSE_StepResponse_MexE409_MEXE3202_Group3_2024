@@ -35,7 +35,7 @@
 
 </div>
 
-Number 6 Step response from SIMULINK:
+### **Number 6 Step response from SIMULINK:**
 <div align="center">
   
 ![#6 SIMULINK](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/4750f88d-9488-451d-a526-f8bd13a8fc74)
