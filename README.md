@@ -67,7 +67,7 @@
 ### **Plant with Time Delay: Step Response from SIMULINK
 <div align="center">
 
-...
+![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/a39544e1-12d0-4229-8510-51bad2642471)
 
 </div>
 
