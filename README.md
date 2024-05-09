@@ -57,14 +57,14 @@
 
 </div>
 
-### **7. Plant with Time Delay: Step Response
+### **7. Plant with Time Delay: Step Response**
 <div align="center">
 
 ![Problem7](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/ff428d46-cf69-400a-9346-7a8593009446)
 
 </div>
 
-### **Plant with Time Delay: Step Response from SIMULINK
+### **Plant with Time Delay: Step Response from SIMULINK**
 <div align="center">
 
 ![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/a39544e1-12d0-4229-8510-51bad2642471)
@@ -82,14 +82,14 @@
 
 </div>
 
-### **8. Nonlinear System Approximation: Step Response
+### **8. Nonlinear System Approximation: Step Response**
 <div align="center">
 
 ![Problem8](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/ee5c35fe-5271-40a7-8fd7-c32ad886dd5f)
 
 </div>
 
-### **8. Nonlinear System Approximation: Step Response from SIMULINK
+### **8. Nonlinear System Approximation: Step Response from SIMULINK**
 <div align="center">
 
 ![image](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/a3010a27-b3b2-430c-b28e-3362b0e7fa04)
