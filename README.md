@@ -34,21 +34,21 @@
 ### **6. Electrical Filter with Multiple Poles: Block Diagram**
 <div align="center">
   
-![#6 BLOCK](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/737a8e28-ec6a-455c-825e-712a10b62b95)
+![p6 block](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/d676ed79-1fc0-48a7-8a1b-5f40f4fbda9a)
 
 </div>
 
 ### **6. Electrical Filter with Multiple Poles: Step response**
 <div align="center">
   
-![#6 MATLAB](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/b1fe6a48-3cfa-4654-ac43-d1cf4f8f07d1)
+![P6 step](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/b7506826-2ae5-4286-aa58-bb249809180d)
 
 </div>
 
 ### **6. Electrical Filter with Multiple Poles: Step response from SIMULINK**
 <div align="center">
   
-![#6 SIMULINK](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/4750f88d-9488-451d-a526-f8bd13a8fc74)
+![p6 simu](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157782959/08d051c3-fddf-49b9-b6f3-82e7fa6986a7)
 
 </div>
 
