@@ -49,21 +49,56 @@
 </div>
 
 ## 7. Plant with Time Delay G(s) = (6s^4 + 5s^3 + 4s^2 + 3s + 2) / (s^5 +2s^4 + 3s^3 + 4s^2 + 5s + 1)
-<br>
 
-Block Diagram:
+### **7. Plant with Time Delay: Block Diagram**
+<div align="center">
+  
 [Malata_Problem7.pdf](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/files/15258498/Malata_Problem7.pdf)
 
-<br>
-Step Response from MATLAB: 
+</div>
+
+### **7. Plant with Time Delay: Step Response
+<div align="center">
+
 ![Problem7](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/ff428d46-cf69-400a-9346-7a8593009446)
 
+</div>
 
-## 8.Nonlinear System Approximation G(s) = (10s^4 + 8s^3 + 6s^2 + 4s + 2) / (s^5 +3s^4 + 5s^3 + 7s^2 + 9s + 1)
-Block Diagram:
+### **Plant with Time Delay: Step Response from SIMULINK
+<div align="center">
 
-Step Response from MATLAB: 
+...
+
+</div>
+
+
+
+## 8. Nonlinear System Approximation G(s) = (10s^4 + 8s^3 + 6s^2 + 4s + 2) / (s^5 +3s^4 + 5s^3 + 7s^2 + 9s + 1)
+
+### **8. Nonlinear System Approximation: Block Diagram**
+<div align="center">
+  
+...
+
+</div>
+
+### **8. Nonlinear System Approximation: Step Response
+<div align="center">
+
 ![Problem8](https://github.com/KanFudz/CSE_StepResponse_MexE409_MEXE3202_Group3_2024/assets/157684612/ee5c35fe-5271-40a7-8fd7-c32ad886dd5f)
+
+</div>
+
+### **8. Nonlinear System Approximation: Step Response from SIMULINK
+<div align="center">
+
+...
+
+</div>
+
+
+
+
 
 
 
